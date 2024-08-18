@@ -2,9 +2,7 @@
 
 | Naam         | Voornaam  | Klasgroep | Github-gebruikersnaam                   |
 | :----------- | :-------- | :-------- | :-------------------------------------- |
-| FAMILIENAAM1 | Voornaam1 | G2.C1     | [UserName](https://github.com/UserName) |
-| FAMILIENAAM2 | Voornaam2 | G2.C1     | [UserName](https://github.com/UserName) |
-
+| Bryse | Präben | G2.C2     | [pbryse]([https://github.com/UserName](https://github.com/pbryse)) |
 Deze Github-repository bevat al de nodige informatie i.v.m. de paper die je voor het vak Research Methods moet voorbereiden en schrijven. 
 
 **LET OP!**
